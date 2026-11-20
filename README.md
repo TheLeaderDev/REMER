@@ -1,4 +1,4 @@
-<h1 align="center">README-Reader</h1>
+<h1 align="center">REMER (Readme-Reader)</h1>
 <h4 align="center">A GitHub-style tool for opening README files</h4>
 <p align="center">
 This little tool lets you open your Markdown files — your MDs or READMEs — right on your own computer, completely offline. It shows them cleanly and neatly, just like GitHub, so everything looks organized and nice.</p>
@@ -29,7 +29,7 @@ This little tool lets you open your Markdown files — your MDs or READMEs — r
 <details dir="rtl">
 <summary>فارسی (کلیک برای باز کردن)</summary> <br>
 
-<h1 align="center">README-Reader</h1>
+<h1 align="center">REMER (Readme-Reader)</h1>
 <p align="center">این ابزار کوچیک بهت اجازه می‌ده فایل‌های Markdown خودت — همون MD یا README — رو مستقیم روی سیستم خودت و کاملاً آفلاین باز کنی. همه چیز رو تمیز و مرتب، درست مثل گیت‌هاب، نشون می‌ده و ظاهرش خیلی جذاب و قابل فهمه</p>
 <p align="center">این ابزار صرفاً با هدف خواندن فایل‌های Markdown ساخته شده. من خودم شخصاً معمولاً پروژه‌ها رو از گیت‌هاب دانلود می‌کنم و زمانی که اینترنت در ایران قطع یا محدود بود، خوندن فایل‌های README و توضیحاتشون برام جذاب نبود — من خیلی به نظم و استایل اهمیت می‌دم. بنابراین تصمیم گرفتم خودم این ابزار رو بسازم. هسته این ابزار از marked.js و github-markdown.css استفاده می‌کنه که پروژه‌های معروفی هستند و توی توسعه این ابزار نقش اصلی رو داشتن.</p>
 
